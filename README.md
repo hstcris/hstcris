@@ -1,6 +1,6 @@
-# Olá, eu sou a Cris👋
+# oie, eu sou a Cris👋
 
-Bem-vindo ao meu perfil do GitHub! Atualmente sou estagiária em Pesquisa e Desenvolvimento com foco em backend e estudante de Banco de Dados. 
+Atualmente sou estagiária em Pesquisa e Desenvolvimento com foco em backend e estudante de Banco de Dados. 
 
 ## Tecnologias que uso:
 - Java (Spring Boot, JPA)
