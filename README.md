@@ -3,7 +3,7 @@
 Atualmente sou estagiária em Pesquisa e Desenvolvimento com foco em backend e estudante de Banco de Dados. 
 
 ## Tecnologias que uso:
-- Java (Spring Boot, JPA)
+- Java (Spring Framework, JPA)
 - Banco de Dados (MySQL, PostgreSQL)
 - Maven, Git
 - Docker
